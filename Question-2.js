@@ -1,0 +1,1 @@
+// Mock SET-1 Interview Question 2 - Difference between var, let and const?
